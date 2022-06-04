@@ -12,7 +12,6 @@ import { ReactComponent as Padlock } from "../../assets/padlock.svg"
 
 
 export function SideBar() {
-    // Seção da classe de ativos selecionada já que é a página atual
     return(
         <Container>
             <SideBarComponent name="Resumo Da Carteira" Icon={Wallet} options={templateOptions} actualPage={false}/>

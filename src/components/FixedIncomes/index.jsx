@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 import { Container, OrderButton, SearchBar, HeaderTitle, MenuSection, HeaderSection, MainSection, OrderButtonModal, ModalOption } from "./styles";
 

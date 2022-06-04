@@ -3,7 +3,6 @@
 
 export function ProfitabilityGraph() {
     return (
-        //TODO
         <div
             style={{
                 height:"348px",
